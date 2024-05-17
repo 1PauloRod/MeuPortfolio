@@ -30,7 +30,7 @@
     transform: translate(-50%, -50%);
     color: white;
     opacity: 0.5;
-    background-image: url("./img/texture.png");
+    background-image: url("../img/texture.png");
     background-size: cover;
     border: 2px solid white;
     animation: move 5s;
