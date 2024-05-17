@@ -86,3 +86,21 @@
     }
   }
 
+.return-arrow{
+    position: absolute;
+    width: 100%;
+    height: 95%;
+    background: none;  
+}
+
+.return-arrow a{
+    background: none;
+    color: black;
+    font-weight: 700;
+    font-size: 26px;
+    text-decoration: none;
+}
+
+.return-arrow a:hover{
+    color:rgb(24, 131, 3);
+}
