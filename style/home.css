@@ -14,7 +14,7 @@
     position: fixed;
     inset: -200%;
     z-index: -1;
-    background-image: url("./img/noise.png");
+    background-image: url("./../img/noise.png");
     animation: shift 0.2s linear infinite both;
     opacity: 40%;
 }
@@ -30,7 +30,7 @@
     transform: translate(-50%, -50%);
     color: white;
     opacity: 0.5;
-    background-image: url("./img/texture.png");
+    background-image: url("./../img/texture.png");
     background-size: cover;
     border: 2px solid white;
     animation: move 5s;
